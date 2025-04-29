@@ -1,0 +1,22 @@
+User: 10 notebooks sold
+Assistant: Inventory updated successfully! 2025-04-29, 20:04:54, Tuesday
+User: 10 kilo Aalu Bik Gaye
+Assistant: Inventory updated successfully!2025-04-29,20:05:18,Tuesday
+User: 2 kg paneer sold
+Assistant: Inventory updated successfully!2025-04-29,20:06:02,Tuesday
+User: one bottle of soft drink soul
+Assistant: Inventory updated successfully!2025-04-29,20:06:49,Tuesday
+User: hello my name is
+Assistant: Hello! How can I assist you today?
+User: can you tell me my name
+Assistant: I don't have your name at the moment. Could you please tell me your name?
+User: hello my name is Kunal
+Assistant: Nice to meet you, Kunal! How can I assist you today?
+User: aaj ka din bahut bekar hai main bahut Pareshan hun
+Assistant: Mujhe sun kar afsos hua, Kunal. Aapko pareshani kis baat ki hai? Shayad main madad kar sakoon.
+User: Nahin Nahin Koi Nahin
+Assistant: Samajh gaya. Agar aapko kabhi baat karni ho ya kisi bhi tarah ki madad chahiye ho, toh zaroor batayein. Kya aapko kisi aur cheez ke baare mein jaan na hai?
+User: can you recall my name
+Assistant: Yes, your name is Kunal. How can I assist you today?
+User: ok thank you for today I am closing the program
+Assistant: You're welcome, Kunal! If you need assistance in the future, feel free to reach out. Have a great day!
