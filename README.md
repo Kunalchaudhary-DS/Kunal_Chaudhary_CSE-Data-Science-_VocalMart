@@ -1,3 +1,6 @@
+#Kunal_Chaudhary_CSE-Data-Science-_VocalMart
+Project-VocalMart: An AI friven Inventory Managment assistant aka. chhotu
+
 # Team Leader: Kunal Chaudhary - 2401420049
 Team Members:
 Utsav Singhal - 2401420041
