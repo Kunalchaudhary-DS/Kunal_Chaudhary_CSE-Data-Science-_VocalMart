@@ -5,7 +5,7 @@ cursor = conn.cursor()
 
 cursor.execute('''
 CREATE TABLE IF NOT EXISTS inventory (
-    name TEXT NOT NULL COLLATE NOCASE,
+    name TEXT NOT NULL UNIQUE COLLATE NOCASE,
     quantity INTEGER NOT NULL,
     unit TEXT NOT NULL
 )
@@ -71,10 +71,12 @@ expanded_data = [
     ("tissue papers", 60, "packs")
 ]
 
+cursor.execute("DELETE FROM inventory") 
+
 cursor.executemany("INSERT OR IGNORE INTO inventory (name, quantity, unit) VALUES (?, ?, ?)", expanded_data)
 
 conn.commit()
 conn.close()
 
-print("✅ Realistic Shop Inventory Database Created Successfully!")
+print(" Realistic Shop Inventory Database Created Successfully!")
 
