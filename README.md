@@ -1,4 +1,4 @@
-# VocalMart: An AI friven Inventory Managment assistant aka. chhotu
+# VocalMart: An AI Driven Inventory Managment assistant aka. chhotu
 
 # Team Leader: Kunal Chaudhary - 2401420049
 Team Members:
